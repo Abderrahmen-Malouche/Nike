@@ -1,8 +1,23 @@
-# React + Vite
+# 👟 Nike Clone Homepage
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **practice project** for honing my **Tailwind CSS** skills, built using **React** with **Vite** ⚡ for a fast and efficient development experience. The project focuses on creating a responsive and visually appealing homepage inspired by **Nike's iconic design**.
 
-Currently, two official plugins are available:
+## 🌟 Purpose
+The purpose of this project is to:
+- 🎨 Practice **Tailwind CSS** for modern styling.
+- 📱 Build a **responsive design** using React components.
+- ⚡ Gain hands-on experience with **Vite** for fast development and bundling.
+- 💡 Experiment with creative web design inspired by **Nike's branding**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- 🛠️ **React Components**: Modular and reusable for easy development.
+- 📏 **Responsive Design**: Tailored for mobile, tablet, and desktop views.
+- 🖼️ **Navbar**: Stylish navigation with placeholders for buttons (non-functional for now).
+- 🚀 **Fast Builds**: Built using **Vite** for rapid development with hot module replacement.
+- 🎨 **Tailwind CSS Styling**: Minimalistic and modern design.
+
+## 💻 Tech Stack
+- **React**: For building the user interface.
+- **Vite**: For lightning-fast development.
+- **Tailwind CSS**: For sleek and responsive styling.
+- **HTML5**: Utilized within React components.
