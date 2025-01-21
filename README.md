@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0585c701-83fa-46ea-a32a-18e70d320c62)# 👟 Nike Clone Homepage
+# 👟 Nike Clone Homepage
 
 This is a **practice project** for honing my **Tailwind CSS** skills, built using **React** with **Vite** ⚡ for a fast and efficient development experience. The project focuses on creating a responsive and visually appealing homepage inspired by **Nike's iconic design**.
 
